@@ -1,0 +1,22 @@
+{
+  "name": "florence",
+  "displayName": "florence",
+  "description": "florence color theme for vscode",
+  "publisher": "felipeymn",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.92.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "florence",
+        "uiTheme": "vs-dark",
+        "path": "./themes/florence-color-theme.json"
+      }
+    ]
+  }
+}
