@@ -15,6 +15,7 @@
       {
         "label": "florence",
         "uiTheme": "vs-dark",
+        "icon": "./images/florence.png",
         "path": "./themes/florence-color-theme.json"
       }
     ]
