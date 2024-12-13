@@ -1,21 +1,33 @@
 {
   "name": "florence",
   "displayName": "florence",
-  "description": "florence color theme for vscode",
+  "description": "florence color theme for VS Code",
   "publisher": "felipeymn",
-  "version": "0.0.1",
+  "version": "0.0.2",
+  "icon": "./images/florence.png",
+  "license": "MIT",
   "engines": {
     "vscode": "^1.92.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/felipeymn/florence-vscode"
+  },
   "categories": [
     "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "florence",
+    "dark",
+    "machine",
+    "cozy"
   ],
   "contributes": {
     "themes": [
       {
         "label": "florence",
         "uiTheme": "vs-dark",
-        "icon": "./images/florence.png",
         "path": "./themes/florence-color-theme.json"
       }
     ]
