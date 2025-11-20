@@ -1,16 +1,26 @@
-# florence README
+# florence
 
-## Working with Markdown
+A dark color theme for vscode, inspired by the ethereal aesthetic of florence & the machine. This theme blends cozy hues with bold accents, aiming to create a workspace that feels both creative and focused.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+## Installation
 
-## For more information
+1. Open Visual Studio Code.
+2. Go to the Extensions view (`Ctrl+Shift+X`).
+3. Search for `florence` and click **Install**.
+4. Open the Command Palette (`Ctrl+Shift+P`) and select `Preferences: Color Theme`, then choose **florence**.
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## Screenshots
 
-**Enjoy!**
+![Florence Theme Preview javascript](images/js.png)
+![Florence Theme Preview python](images/py.png)
+
+
+## Contributing
+
+Feel free to open issues or submit pull requests on [GitHub](https://github.com/felipeymn/florence-vscode) to help improve the theme.
+
+
+
+---
+*too fast for freedom*
