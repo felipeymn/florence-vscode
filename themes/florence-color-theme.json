@@ -722,7 +722,7 @@
       "name": "Meta tag",
       "scope": "meta.tag",
       "settings": {
-        "foreground": "#c5c5c6"
+        "foreground": "#66696b"
       }
     },
     {
@@ -771,7 +771,7 @@
       "name": "Tags",
       "scope": "entity.name.tag",
       "settings": {
-        "foreground": "#c5c5c6"
+        "foreground": "#e69147"
       }
     },
     {
@@ -2059,14 +2059,15 @@
     "merge.incomingContentBackground": "#28384B",
     "merge.commonHeaderBackground": "#383838",
     "merge.commonContentBackground": "#282828",
-    "editorSuggestWidget.background": "#252526",
-    "editorSuggestWidget.border": "#454545",
+    "editorSuggestWidget.background": "#1a1d21",
+    "editorSuggestWidget.border": "#1a1d21",
     "editorSuggestWidget.foreground": "#d4d4d4",
-    "editorSuggestWidget.highlightForeground": "#0097fb",
-    "editorSuggestWidget.selectedBackground": "#062f4a",
+    "editorSuggestWidget.highlightForeground": "#ffa4cb",
+    "editorSuggestWidget.selectedBackground": "#383B3F",
+    "editorSuggestWidget.selectedForeground": "#d4d4d4",
     "editorHoverWidget.foreground": "#c5c5c6",
     "editorHoverWidget.background": "#1a1d21",
-    "editorHoverWidget.border": "#ffffff00",
+    "editorHoverWidget.border": "#1a1d21",
     "peekView.border": "#007acc",
     "peekViewEditor.background": "#001f33",
     "peekViewEditorGutter.background": "#001f33",
